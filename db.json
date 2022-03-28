@@ -1,0 +1,109 @@
+{
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Saunter Strech",
+      "location": "bangalore",
+      "date": "2022-03-30",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.unsplash.com/photo"
+    },
+    {
+      "id": 2,
+      "title": "Kolkata event",
+      "location": "Kolkata",
+      "date": "2022-03-27",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.unsplash.com/photo"
+    },
+    {
+      "id": 3,
+      "title": "Delhi event",
+      "location": "delhi",
+      "date": "2022-03-28",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.unsplash.com/photo"
+    },
+    {
+      "id": 4,
+      "title": "mumbai Strech",
+      "location": "mumbai",
+      "date": "2022-03-29",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.unsplash.com/photo"
+    }
+  ],
+  "users": [
+    {
+      "name": "Samuel",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "art",
+        "drama"
+      ],
+      "image": "https://images.unsplash.com/photo",
+      "id": 1,
+      "subscribed": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "pens",
+      "password": "123132",
+      "location": "kolkata",
+      "technology": false,
+      "food": true,
+      "movies": false,
+      "culture": true,
+      "art": false,
+      "drama": false,
+      "image": "asasdsa",
+      "id": 2
+    },
+    {
+      "name": "pens12",
+      "password": "123132",
+      "location": "kolkata",
+      "interests": [
+        "culture",
+        "food"
+      ],
+      "image": "asasdsa",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "password": "asd",
+      "location": "bangalore",
+      "interests": [
+        "technology"
+      ],
+      "image": "https://www.google.com/search?q=hose&rlz=1C1FHFK_enIN972IN972&tbm=isch&source=iu&ictx=1&vet=1&fir=bpmWd0UTTkHyvM%252Cv8yK1vldz-kCrM%252C%252Fm%252F03xbmk%253BOkJ85ugzHqSxMM%252ClV6IbMqDJIbyNM%252C_%253Bgg9dqdPtdvB7uM%252CJj_5F3euVBH9lM%252C_%253B1YulGItx0c8rLM%252CC5C1HRUy-nhQxM%252C_%253BTk6fKoVQcZAkpM%252Cr-f5L6zNB-f84M%252C_&usg=AI4_-kQeEUMNturCKgPzACmuEP102xKsjQ&sa=X&ved=2ahUKEwjz-_WF1Oj2AhUlzzgGHc7IAIEQ_B16BAhjEAE#imgrc=bpmWd0UTTkHyvM",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "password": "asd",
+      "location": "bangalore",
+      "interests": [
+        "technology"
+      ],
+      "image": "https://www.google.com/search?q=hose&rlz=1C1FHFK_enIN972IN972&tbm=isch&source=iu&ictx=1&vet=1&fir=bpmWd0UTTkHyvM%252Cv8yK1vldz-kCrM%252C%252Fm%252F03xbmk%253BOkJ85ugzHqSxMM%252ClV6IbMqDJIbyNM%252C_%253Bgg9dqdPtdvB7uM%252CJj_5F3euVBH9lM%252C_%253B1YulGItx0c8rLM%252CC5C1HRUy-nhQxM%252C_%253BTk6fKoVQcZAkpM%252Cr-f5L6zNB-f84M%252C_&usg=AI4_-kQeEUMNturCKgPzACmuEP102xKsjQ&sa=X&ved=2ahUKEwjz-_WF1Oj2AhUlzzgGHc7IAIEQ_B16BAhjEAE#imgrc=bpmWd0UTTkHyvM",
+      "id": 5
+    }
+  ]
+}

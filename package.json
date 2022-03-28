@@ -1,5 +1,5 @@
 {
-  "name": "unit5c4",
+  "name": "meetup",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,8 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/styled-components": "^5.1.24",
+    "axios": "^0.26.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.28.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.2",
+    "redux": "^4.1.2"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",

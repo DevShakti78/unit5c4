@@ -6,9 +6,9 @@ export const AddMeetup = () => {
       <form>
         <h1>Add Meetup</h1>
         <label>title</label>
-        <input type="text" className="title" onChange={(e) => { console.log(e.target.value)}} required />
+        <input type="text" className="title" onChange={() => { }} required />
         <label>Location</label>
-        <select value={""} className="location" onChange={(event) => {console.log(event.target.value) }}>
+        <select value={""} className="location" onChange={(event) => { }}>
           <option value=""></option>
           <option value="bangalore">Bangalore</option>
           <option value="kolkata">Kolkata</option>

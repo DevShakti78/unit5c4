@@ -1,15 +1,12 @@
-import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
-import {AddMeetup} from "./Components/AddMeetup/AddMeetup"
-function App() {
-  const [count, setCount] = useState(0)
+import "./App.css";
+import { Routers } from "./Components/Routers/Routers";
 
+function App() {
   return (
     <div className="App">
-     <AddMeetup/>
+      <Routers />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
